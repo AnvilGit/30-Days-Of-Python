@@ -76,7 +76,7 @@ Your feedback helps improve this project. If you find mistakes or have suggestio
 
 For further reading and support, consider these additional resources:
 
-- [Python Official Documentation](https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip)
+- [Python Official Documentation](https://docs.python.org/3/)
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [Real Python](https://docs.python.org/3/)
 
