@@ -1,18 +1,18 @@
 # 🐍 30-Days-Of-Python - Learn Python Step by Step
 
-[![Download Now](https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip%20Now-Click%https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip)](https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip)
+[![Download Now]
 
 ## 🚀 Getting Started
 
 Welcome to the 30-Days-Of-Python challenge! This guide helps you learn Python programming in 30 days. Whether you're completely new or you've tried programming before, this resource provides a path for everyone. Remember, it's okay if you take longer than 30 days. Move at your own pace. 
 
-You may also find helpful videos on this [YouTube channel](https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip).
+You may also find helpful videos on this [YouTube channel]
 
 ## 💾 Download & Install
 
 To begin, you need to download the software from our releases page. 
 
-1. **Visit this page to download:** [30-Days-Of-Python Releases](https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip).
+1. **Visit this page to download:** 
 
 2. Look for the latest version at the top of the page. 
 
@@ -27,7 +27,7 @@ Before you begin, make sure your computer meets the following requirements:
 - **Operating System:** Windows, macOS, or Linux.
 - **Memory:** At least 4 GB of RAM.
 - **Disk Space:** A minimum of 100 MB free disk space.
-- **Additional Software:** You may want to install Python 3 from [https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip](https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip) if it's not already installed.
+- **Additional Software:** You may want to install Python 3 from if it's not already installed.
 
 ## 🌟 Features
 
@@ -57,7 +57,7 @@ Each day’s lesson is structured in a way that builds on previous knowledge. Fo
 Join a community of learners. Engaging with others can greatly enhance your experience:
 
 - **Discussion Forums:** Participate in conversations about Python programming.
-- **Video Tutorials:** Watch tutorials on the [YouTube channel](https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip) for visual learning.
+- **Video Tutorials:** Watch tutorials on the for visual learning.
 - **Social Media:** Follow us on Twitter and Facebook for updates and tips.
 
 ## 🚧 Troubleshooting
@@ -82,4 +82,4 @@ For further reading and support, consider these additional resources:
 
 Feel free to reach out if you have any questions or need help. Good luck on your Python journey!
 
-[![Download Now](https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip%20Now-Click%https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip)](https://github.com/Leandrovagani/30-Days-Of-Python/raw/refs/heads/master/python_for_web/templates/Of-Days-Python-2.4.zip)
+
