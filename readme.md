@@ -1,6 +1,5 @@
 # 🐍 30-Days-Of-Python - Learn Python Step by Step
 
-[![Download Now]
 
 ## 🚀 Getting Started
 
